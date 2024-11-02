@@ -4,12 +4,24 @@
   --max-width: 1100px;
   --nav-height: 50px;
 
-  --black: #111111;
   --white: #EEEEE1;
+ 
+  /* Dark Color Palette */
+
+--black: #000000;
+--dark-gray: #333333;
+--charcoal: #262626;
+--slate-gray: #708090;
+--dark-blue: #00008B;
+--navy-blue: #000080;
+--dark-green: #006400;
+--dark-purple: #800080;
+--maroon: #800000;
+--dark-olive-green: #556B2F;
 
   font-family: 'Inter', sans-serif;
-  color: var(--black);
-  background: var(--white);
+  color: var(--white);
+  background: var(--charcoal);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
